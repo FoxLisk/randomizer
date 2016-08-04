@@ -1,0 +1,8 @@
+*swp
+*~
+*pyc
+.Python
+bin/
+lib/
+include
+pip-selfcheck.json
